@@ -14,3 +14,22 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+
+.screen-header__icons {
+  position: relative;
+}
+
+#gear {
+  position: relative;
+}
+
+.screen-header__dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  display: flex;
+  bottom: 10px;
+  left: -8px;
+}
