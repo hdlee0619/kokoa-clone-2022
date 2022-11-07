@@ -30,6 +30,10 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 17px;
 }
+.user-component__subtitle i {
+  color: tomato;
+  opacity: 0.7;
+}
 
 .user-component__avatar--xl {
   width: 80px;
